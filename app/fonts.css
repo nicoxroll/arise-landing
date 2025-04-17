@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Hiperion";
+  src: url("/fonts/hiperion.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-hiperion {
+  font-family: "Hiperion", sans-serif;
+  letter-spacing: 0.05em;
+}
